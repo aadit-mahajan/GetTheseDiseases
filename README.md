@@ -14,3 +14,8 @@ if you wanna
     - analyse the clusters and try to find the known relations for inverse comorbidities
     - find a logic to get to these relations through generalised code
     - Mine this network for further such pairs/relations once the logic for finding these has been established.
+
+15/4/2024 - update
+- a bipartite graph projection involving the number of links between a two diseases being the edge-weights should lead us closer.     
+- need to screen out the edges which contain two diseases that are not purely genetic when finding genetic inverse comorbidities.     
+  
