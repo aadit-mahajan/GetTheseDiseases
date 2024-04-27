@@ -1,6 +1,6 @@
 # GetTheseDiseases
 
-if you wanna
+if you wanna ...
 
 5/4/2024 - update
 
