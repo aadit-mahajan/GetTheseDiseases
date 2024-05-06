@@ -2,6 +2,11 @@
 
 if you wanna ...
 
+Note:
+- source_code.ipynb contains the code for the initial workflow
+- DG_clustering.ipynb contains the code for the modified workflow for genetic inverse comorbidities
+- DF_clustering.ipynb contains the work-in-progress code for performing clustering and identifying functionally related inverse comorbidities
+  
 5/4/2024 - update
 
 - the realisation that some diseases might not turn up in the inverse comorbidities list       
@@ -17,5 +22,7 @@ if you wanna ...
 
 15/4/2024 - update
 - a bipartite graph projection involving the number of links between a two diseases being the edge-weights should lead us closer.     
-- need to screen out the edges which contain two diseases that are not purely genetic when finding genetic inverse comorbidities.     
+- need to screen out the edges which contain two diseases that are not purely genetic when finding genetic inverse comorbidities.
+
+   
   
